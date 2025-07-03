@@ -8,3 +8,5 @@ include "test"
 include "mls"
 include "mail"
 include "jmail"
+
+include 'java-bc-light'
